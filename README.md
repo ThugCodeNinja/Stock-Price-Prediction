@@ -36,7 +36,7 @@ The Stock Price Prediction App is a Streamlit-based web application that provide
    ```
 
 3. Install the required Python packages using pip:
-   ``
+   ``'sh
    pip install -r requirements.txt
    ```
 
